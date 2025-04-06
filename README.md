@@ -24,7 +24,7 @@ This project is built under **Goal 10: Reduced Inequalities** of the United Nati
 ## 🎥 Learning Resource
 
 I followed this amazing YouTube guide while learning and building this:
-[YouTube: Learn Git & GitHub Easily](https://youtu.be/_EgI9WH8q1A)
+[YouTube: Learn Git & GitHub Easily](https://www.youtube.com/watch?v=q8EevlEpQ2A)
 
 ## 🚀 Getting Started
 
