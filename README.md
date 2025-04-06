@@ -1,8 +1,35 @@
-# React + Vite
+# 🎓 Education Equity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built under **Goal 10: Reduced Inequalities** of the United Nations Sustainable Development Goals.
 
-Currently, two official plugins are available:
+## 🌍 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Education Equity** aims to bridge the educational gap by establishing community-based learning centers for underprivileged groups. These centers provide equal access to quality education, faculty assignment, and performance tracking across localities.
+
+## ✨ Features
+
+- 📌 Community-wise education center tracking
+- 👨‍🏫 Faculty assignment by locality
+- 📊 Visual statistics for inequality, faculty data, and reach
+- 📁 Clean UI with sidebar + header layout (React + Tailwind)
+- 🛠️ Persistent data and smooth routing (React Context + Routing)
+
+## 🔧 Tech Stack
+
+- React + Tailwind CSS
+- Chart.js / Recharts for data visualization
+- Context API for state management
+- Vercel for deployment
+
+## 🎥 Learning Resource
+
+I followed this amazing YouTube guide while learning and building this:
+[YouTube: Learn Git & GitHub Easily](https://youtu.be/_EgI9WH8q1A)
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/LV2402/education-equity.git
+cd education-equity
+npm install
+npm start
